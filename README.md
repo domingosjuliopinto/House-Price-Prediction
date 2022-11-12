@@ -1,10 +1,9 @@
 # House-Price-Prediction
-This is a House Price Prediction System estimating the prices in the city of Pune (Maharashtra,India) which was developed using python , colab and flask
+This is a House Price Prediction System estimating the prices in the city of Pune (Maharashtra,India) based on the inputs given by the user. It was developed using python , colab and flask. This system has a dataset from which it is trained.
 
 # This Readme Contains
 * [Introduction](#introduction)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Steps](#steps)
 * [Screenshots](#screenshots)
 * [References](#references)
@@ -19,9 +18,9 @@ House prices are a significant impression of the economy, and its value ranges a
 - Javascript, HTML, CSS
 - Bootstrap
 
-## Features
-
 ## Steps 
+* Download the requirements using : pip install -r requirements.txt
+* Run the flask app using <a href='https://flask.palletsprojects.com/en/2.2.x/quickstart/'>the following steps</a>
 
 ## Screenshots
 Before the input
